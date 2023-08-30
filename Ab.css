@@ -18,7 +18,7 @@ svg {
     margin: 0 auto;
 }
 
-.text-cop {
+.hhhh {
     fill: none;
     stroke: white;
     stroke-dasharray: 6% 29%;
@@ -27,27 +27,27 @@ svg {
     animation: stroke-offset 5.5s infinite linear;
 }
 
-.text-cop:nth-child(1){
+.hhhh:nth-child(1){
 	stroke: #4D163D;
 	animation-delay: -1;
 }
 
-.text-cop:nth-child(2){
+.hhhh:nth-child(2){
 	stroke: #cf1578;
 	animation-delay: -2s;
 }
 
-.text-cop:nth-child(3){
+.hhhh:nth-child(3){
 	stroke: #e8d21d;
 	animation-delay: -3s;
 }
 
-.text-cop:nth-child(4){
+.hhhh:nth-child(4){
 	stroke: #039fbe;
 	animation-delay: -4s;
 }
 
-.text-cop:nth-child(5){
+.hhhh:nth-child(5){
 	stroke: #b20238;
 	animation-delay: -5s;
 }
