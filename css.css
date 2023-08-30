@@ -27,7 +27,7 @@ a{
 	background: #585247;
 }
 a div{
-	height: 10%;
+	height: 100%;
 	background-size: cover;
 	opacity: .6;
 	transition: opacity .5s;
